@@ -11,7 +11,7 @@ Self-contained projects — each repo has its own source, tests, dependencies, a
 ### Core systems
 | Project | Description |
 |---------|-------------|
-| [**ROCS**](https://github.com/omrishalev10/rocs) | C++20 framework: thread pool, singleton, factory, message broker, PlugNPlay (`inotify` + `dlopen`), NBD + RAM storage |
+| [**ROCS**](https://github.com/omrishalev10/rocs-framework) | C++20 framework: thread pool, singleton, factory, message broker, PlugNPlay (`inotify` + `dlopen`), NBD + RAM storage |
 | [**watchdog**](https://github.com/omrishalev10/watchdog) | Process immortality: mutual heartbeat, signals, `fork`/`exec`, heap-based scheduler |
 | [**heap_scheduler**](https://github.com/omrishalev10/heap_scheduler) | Timed task scheduler backed by a binary heap |
 | [**dhcp**](https://github.com/omrishalev10/dhcp) | DHCP-style IP allocation on a binary trie |
