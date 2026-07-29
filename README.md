@@ -4,7 +4,7 @@ Software engineer focused on **systems programming**, **C/C++**, and low-level s
 
 ---
 
-## Systems & C/C++ (Infinity Labs)
+## Systems & C/C++
 
 Self-contained projects — each repo has its own source, tests, dependencies, and Makefile.
 
